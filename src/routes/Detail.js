@@ -14,7 +14,7 @@ class Detail extends React.Component {
     if (location.state) {
       return (
         <div className="detail__container">
-          <span>{location.state.title}</span>)
+          <span>{location.state.title}</span>
         </div>
       );
     } else {

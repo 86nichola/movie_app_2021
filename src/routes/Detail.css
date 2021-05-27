@@ -15,7 +15,7 @@
   font-size: 20px;
 }
 
-.detail__containerspan:last-child {
+.detail__container span:last-child {
   display: block;
   margin-top: 10px;
 }
